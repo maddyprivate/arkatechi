@@ -32,7 +32,7 @@
     <section id="testimonials" class="testimonials">
       <div class="container">
 
-        <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="300">
+        <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="500">
           <div class="swiper-wrapper">
 
             <div class="swiper-slide">

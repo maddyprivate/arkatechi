@@ -131,7 +131,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/images/testimonials/satya.png" class="testimonial-img" alt="">
+                <img src="assets/images/testimonials/satya.jpg" class="testimonial-img" alt="">
                 <h3>D.Satya Sai Rao</h3>
                 <h4>Network Engineer @ Tech Mahindra</h4>
                 <p>

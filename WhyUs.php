@@ -129,6 +129,19 @@
               </div>
             </div><!-- End testimonial item -->
 
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/images/testimonials/satya.png" class="testimonial-img" alt="">
+                <h3>D.Satya Sai Rao</h3>
+                <h4>Network Engineer @ Tech Mahindra</h4>
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  I want to briefly discuss my development over the last few years and my successes. I have experience with routing, switching, and WLAN overall. How I reached this point, my supporters, and the institution. I owe a lot of gratitude to Institute ArkaTechi for helping me succeed at this level and stand out in the market of today. My understanding of the correct knowledge in the field that I am currently working in has greatly improved because to ArkaTechi's excellent study methods and processes. The teaching faculty at this institute is exceptionally knowledgeable and has extensive experience working on live projects. I'm grateful beyond measure to ArkaTechi for advancing my profession and pointing me in the proper direction.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
+
             </div>
           </div>
           <div class="swiper-pagination"></div>
@@ -142,7 +155,7 @@
             <div class="container">
                 <div class="row">
                     <div class="heading">
-                        <h2>WHY CHOOS US</h2>
+                        <h2>WHY CHOOSE US</h2>
                     </div>
                 </div>
                 <div class="row">

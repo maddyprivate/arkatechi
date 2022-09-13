@@ -231,7 +231,7 @@
             <div class="container">
                 <div class="row">
                     <div class="heading">
-                        <h2>Featured Courses</h2>
+                        <h2>Networking Courses</h2>
                     </div>
                 </div>
 
@@ -326,6 +326,116 @@
                                                 <p>LTM</p>
                                                 <ol>
                                                     <li>1 Month</li>
+                                                    <li>Weekdays Batches</li>
+                                                    <li>Weekend Batches</li>
+                                                </ol>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="heading">
+                        <h2>Software Courses</h2>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-12">
+                        <div class="wrapper">
+                            <div class="owl-carousel owl-theme">
+                                <div class="item">
+                                    <div class="my-items">
+                                        <div class="content">
+                                            <div class="image-01">
+                                                <img src="assets/images/courses/4.jpeg">
+                                            </div>
+                                            <div class="sentence">
+                                                <b>HTML</b>
+                                                <p>Website developement</p>
+                                                <ol>
+                                                    <li>1 Months</li>
+                                                    <li>Weekdays Batches</li>
+                                                    <li>Weekend Batches</li>
+                                                </ol>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="item">
+                                    <div class="my-items">
+                                        <div class="content">
+                                            <div class="image-01">
+                                                <img src="assets/images/courses/5.jpeg">
+                                            </div>
+                                            <div class="sentence">
+                                                <b>C Language</b>
+                                                <p>C Language</p>
+                                                <ol>
+                                                    <li>1.5 Months</li>
+                                                    <li>Weekdays Batches</li>
+                                                    <li>Weekend Batches</li>
+                                                </ol>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="item">
+                                    <div class="my-items">
+                                        <div class="content">
+                                            <div class="image-01">
+                                                <img src="assets/images/courses/6.jpeg">
+                                            </div>
+                                            <div class="sentence">
+                                                <b>C++ </b>
+                                                <p>C++</p>
+                                                <ol>
+                                                    <li>1.5 Month</li>
+                                                    <li>Weekdays Batches</li>
+                                                    <li>Weekend Batches</li>
+                                                </ol>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="item">
+                                    <div class="my-items">
+                                        <div class="content">
+                                            <div class="image-01">
+                                                <img src="assets/images/courses/7.jpeg">
+                                            </div>
+                                            <div class="sentence">
+                                                <b>Python</b>
+                                                <p>Core and Advance</p>
+                                                <ol>
+                                                    <li>3 Month</li>
+                                                    <li>Weekdays Batches</li>
+                                                    <li>Weekend Batches</li>
+                                                </ol>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="item">
+                                    <div class="my-items">
+                                        <div class="content">
+                                            <div class="image-01">
+                                                <img src="assets/images/courses/8.jpeg">
+                                            </div>
+                                            <div class="sentence">
+                                                <b>JAVA</b>
+                                                <p>Core and Adavance</p>
+                                                <ol>
+                                                    <li>4 Month</li>
                                                     <li>Weekdays Batches</li>
                                                     <li>Weekend Batches</li>
                                                 </ol>

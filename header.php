@@ -13,6 +13,13 @@
                     <div class="menu">
                         <ul>
                             <li><a href="index.php">HOME</a></li>
+                            <div class="dropdown">
+                               <li class="dropbtn"><a href="index.php">COURSES</a></li>
+                                  <div class="dropdown-content">
+                                     <a class="nav-link scrollto active" href="#network">Networking Cources</a>
+                                     <a class="nav-link scrollto active" href="#software">Software Cources</a>
+                                  </div>
+                            </div>
                             <!--<li><a href="about-us.php">About Us</a></li>-->
                             <li><a href="WhyUs.php">ABOUT US</a></li>
                             <li><a href="services.php">OUR ROADMAP</a></li>

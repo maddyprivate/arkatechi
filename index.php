@@ -226,9 +226,10 @@
         </section>
         -->
         <!-- ============bg-se-03  Section  Start============ -->
-
+        
         <section class="bg-se-03">
-            <div class="container">
+          <section id="network">
+           <div class="container">
                 <div class="row">
                     <div class="heading">
                         <h2>Networking Courses</h2>
@@ -338,6 +339,7 @@
                     </div>
                 </div>
             </div>
+            <section id="software">
             <div class="container">
                 <div class="row">
                     <div class="heading">
@@ -375,7 +377,7 @@
                                                 <img src="assets/images/courses/5.jpeg">
                                             </div>
                                             <div class="sentence">
-                                                <b>C Language</b>
+                                                <a href="index.php"; targe="blank"><b>C Language</a></b>
                                                 <p>C Language</p>
                                                 <ol>
                                                     <li>1.5 Months</li>

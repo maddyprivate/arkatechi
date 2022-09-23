@@ -7,6 +7,9 @@
                     <p>Waiting for an opportunity in the IT world?<br> let’s walk together and make it possible for your
                          bright and lightning carrier.</p>
                 </div>
+                <!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=8042232&style=0006&nbdigits=6&type=ip&initCount=09938" title="Free Counter" Alt="web counter"   border="0" /></a>
             </div>
             <div class="col-lg-4">
                 <div class="_kl_de_w">
@@ -34,7 +37,7 @@
         </div>
     <!-- </div> -->
 
-
+                                     
 </footer>
 <div style="width:90px;hight:90px;position: fixed;right:10px;bottom: 10px;">
 <a href="https://wa.me/919689190202" target="_blank"><img src="assets/images/whatsapp.png" style="width:90px;hight:90px;"/> 

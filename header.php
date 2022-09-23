@@ -16,8 +16,8 @@
                             <div class="dropdown">
                                <li class="dropbtn"><a href="index.php">COURSES</a></li>
                                   <div class="dropdown-content">
-                                     <a class="nav-link scrollto active" href="#network">Networking Cources</a>
-                                     <a class="nav-link scrollto active" href="#software">Software Cources</a>
+                                     <a class="nav-link scrollto active" href="#network">Networking Courses</a>
+                                     <a class="nav-link scrollto active" href="#software">Software Courses</a>
                                   </div>
                             </div>
                             <!--<li><a href="about-us.php">About Us</a></li>-->
@@ -29,6 +29,6 @@
                 </div>
             </div>
         </div>
-    <!-- </div> -->
+   
 </div>
 </header>

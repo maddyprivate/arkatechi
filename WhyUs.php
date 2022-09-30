@@ -142,6 +142,21 @@
               </div>
             </div><!-- End testimonial item -->
 
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/images/testimonials/Ajab.png" class="testimonial-img" alt="">
+                <h3>Ajab Naval Patil</h3>
+                <h4>Network Engineer @ Meridian Infotech Limited</h4>
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  At first, I was not sure whether I should join this course or not but when I join due to extraordinary support from Arka Techi Team I can change my life and now I started working as Network Engineer, this is possible only and only because of great efforts of mine and Arka Techi.
+                  Thank you team for making big change in my life.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
+
             </div>
           </div>
           <div class="swiper-pagination"></div>

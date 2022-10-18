@@ -245,7 +245,7 @@ header .nav-items {
   flex-wrap: wrap;
   flex: 1 1 100%;
   max-width: 100%;
-  width: 80%;
+  width: 100%;
   position: relative; }
   header .nav-items .menu-toggle {
     position: absolute;
@@ -560,7 +560,8 @@ transform: translateX(-100%);
           letter-spacing: 0.0625rem;
           text-transform: uppercase;
           margin: 0 0 1.25rem;
-          position: relative; }
+          position: relative;
+          color: white }
           .slider .main-wrapper .sub-wrapper-01 .content h1::before {
             position: absolute;
             content: "";

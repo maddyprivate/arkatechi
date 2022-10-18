@@ -9,8 +9,9 @@
                 </div>
                 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=8042232&style=0006&nbdigits=6&type=ip&initCount=09938" title="Free Counter" Alt="web counter"   border="0" /></a>
+<img src="https://hitwebcounter.com/counter/counter.php?page=8042232&style=0006&nbdigits=6&type=ip&initCount=12367" title="Free Counter" Alt="web counter"   border="0" /></a>
             </div>
+            <!--counter end-->
             <div class="col-lg-4">
                 <div class="_kl_de_w">
                     <h3>Quick Links</h3>

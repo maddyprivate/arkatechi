@@ -38,8 +38,8 @@
                     <div class="main-wrapper">
                         <div class="sub-wrapper-01">
                             <div class="content">
-                                <h1>WE’RE THE INITIAL SPARK OF YOUR LIGHTNING FUTURE</h1>
-                                <p>Waiting for the opportunity in the IT world, let’s walk together towards the brightening and lightning carrier.</p>
+                                <h1 class="color:white;">WE’RE THE INITIAL SPARK OF YOUR LIGHTNING FUTURE</h1>
+                                <p>Waiting for the opportunity in the IT world, let’s walk together towards the brightening and lightning career.</p>
                                 <div class="btn-01">
                                     <ul>
                                         <li><a href="contact-us.php">Contact Us</a></li>

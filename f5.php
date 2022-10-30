@@ -21,21 +21,9 @@
             </div>
         </section>
         <!-- ============bg-se-02  Section  Start============ -->
-         <section class="bg-se-02">
-            <div class="container">
-            <br>Basic concepts</br>
-            <br>Functions </br>
-            <br>Declaration & Prototype</br>
-            <br>Passing & returning value </br>
-            <br>Passing array to function & Element to Funtion </br>
-            <br>Recursive </br>
-            <br>Pointers (Concept, pointer arrays & Character array) </br>
-            <br>Structures ( Declaring, Accessing, Array of, Pointer of ) </br>
-            <br>File Handling (File operation, Different modes of files)</br>
-            <br>Files (command Lines, arguments, Misc. I/O function, mode of files)</br>
-            </div>
-        </section>
-    </main>
+    
+
+        
     <!-- ============Footer  Start============ -->
     <?php include('footer.php'); ?>
 </body>

@@ -66,18 +66,37 @@ body {
     }
 
 h1, h2, h3, h4, h5, h6,
-.h1, .h2, .h3, .h4, .h5, .h6 {
+.h1, .h2, .h3, .h4, .h6 {
   font-family: "Roboto", sans-serif;
   color: #000; 
 }
+h7{
+  font-family: "Roboto", sans-serif;
+  color: blue;
+}
+h8{
+  font-family: "Roboto", sans-serif;
+  color: blue;
+  font-weight: bold;
+  font-size: 50px;
+}
 
+h9{
+  font-family: "Roboto", sans-serif;
+  color: rgb(54, 106, 204);
+  font-weight: bold;
+  font-size: 20px;
+}
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease; }
   a, a:hover {
     text-decoration: none !important; }
+.added li{
+    color:#0e7cd6
 
+}
 .text-black {
   color: #000; }
 
@@ -357,6 +376,23 @@ header .nav-items {
   .og-hf .my-nav {
     background: #002db3; }
 
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+      
+    }
+    
+    td, th {
+      border: 1px solid #black;
+      text-align: left;
+      padding: 8px;
+      color: #0033CC;
+    }
+    
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
 
 /* ================================ ticker CSS =============================== */
 .ticker-wrapper{
@@ -745,7 +781,7 @@ transform: translateX(-100%);
           line-height: 1.5625rem; }
           .bg-se-02 .main-wrapper .content .sentence br {
             font-size: 1rem;
-            color: #000;
+            color: #000;3
             line-height: 1.5625rem; }
 
 .bg-se-03 {

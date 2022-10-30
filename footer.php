@@ -5,7 +5,7 @@
                 <div class="_kl_de_w">
                     <img src="assets/images/logo.png"class="footerlogoimg">
                     <p>Waiting for an opportunity in the IT world?<br> let’s walk together and make it possible for your
-                         bright and lightning carrier.</p>
+                         bright and lightning career.</p>
                 </div>
                 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">

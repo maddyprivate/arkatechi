@@ -20,6 +20,20 @@
                 </div>
             </div>
         </section>
+        <!-- ============Wall of fame============ -->
+        <section class="bg-se-01">
+            <div class="container">
+                <div class="row">
+                    <div class="heading">
+                        <h2>Wall Of Fame</h2>
+                    </div>
+                </div>
+            <div class="container">
+              <div class="image">
+                <img src="assets/images/wall.jpeg">
+              </div>
+            </div>  
+
         <!-- ============bg-se-05  Section  Start============ -->
         <section class="bg-se-01">
             <div class="container">
@@ -97,7 +111,7 @@
                 <h4>Network Engineer @ Infosys BPM LTD</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                   would like to thank Arka Techi all teachers, the founder, and all team members. I was overjoyed when I decided to join Arka Teach to finish the course and learn how to build a resume. Especially thanks to Mrs. Virti, who arranged MOC interviews for each student and created a creative career self-development program. It’s really helpful for job interviews. Thank you, Arka Techi family.
+                   First of all I would like to thank Arka Techi all teachers, the founder, and all team members. I was overjoyed when I decided to join Arka Teach to finish the course and learn how to build a resume. Especially thanks to Mrs. Virti, who arranged MOC interviews for each student and created a creative career self-development program. It’s really helpful for job interviews. Thank you, Arka Techi family.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>

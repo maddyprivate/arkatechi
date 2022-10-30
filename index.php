@@ -38,7 +38,7 @@
                     <div class="main-wrapper">
                         <div class="sub-wrapper-01">
                             <div class="content">
-                                <h1 class="color:white;">WE’RE THE INITIAL SPARK OF YOUR LIGHTNING FUTURE</h1>
+                                <h1>WE’RE THE INITIAL SPARK OF YOUR LIGHTNING FUTURE</h1>
                                 <p>Waiting for the opportunity in the IT world, let’s walk together towards the brightening and lightning career.</p>
                                 <div class="btn-01">
                                     <ul>
@@ -247,7 +247,7 @@
                                                 <img src="assets/images/courses/1.jpg">
                                             </div>
                                             <div class="sentence">
-                                                <a href="https://learningnetwork.cisco.com/s/ccna-exam-topics"; target="_blank"><b>CCNA</a></b>
+                                                <a href="ccnarns.php";><b>CCNA</a></b>
                                                 <p>Routing and switching</p>
                                                 <ol>
                                                     <li>2.5 Months</li>
@@ -263,10 +263,10 @@
                                     <div class="my-items">
                                         <div class="content">
                                             <div class="image-01">
-                                                <img src="assets/images/courses/3.png">
+                                                <img src="assets/images/courses/ccnpsecurity.jpeg">
                                             </div>
                                             <div class="sentence">
-                                                <b>CCNA</b>
+                                                <a href="ccnp.php";><b>CCNP</a></b>
                                                 <p>Network Securities</p>
                                                 <ol>
                                                     <li>3 Months</li>
@@ -282,10 +282,10 @@
                                     <div class="my-items">
                                         <div class="content">
                                             <div class="image-01">
-                                                <img src="assets/images/courses/2.png">
+                                                <img src="assets/images/courses/paloalto.jpeg">
                                             </div>
                                             <div class="sentence">
-                                                <a href="https://www.paloaltonetworks.com/services/education/palo-alto-networks-certified-network-security-engineer"; target="_blank";><b>FIREWALL</a></b>
+                                                <a href="pa.php";><b>FIREWALL</a></b>
                                                 <p>Palo Alto</p>
                                                 <ol>
                                                     <li>1 Month</li>
@@ -301,11 +301,11 @@
                                     <div class="my-items">
                                         <div class="content">
                                             <div class="image-01">
-                                                <img src="assets/images/courses/3.png">
+                                                <img src="assets/images/courses/Fortinet.jpg">
                                             </div>
                                             <div class="sentence">
-                                                <b>Firewall</b>
-                                                <p>Fortinet</p>
+                                                <a href="fortigate.php";><b>Firewall</a></b>
+                                                <p>Fortigate</p>
                                                 <ol>
                                                     <li>1 Month</li>
                                                     <li>Weekdays Batches</li>
@@ -320,7 +320,7 @@
                                     <div class="my-items">
                                         <div class="content">
                                             <div class="image-01">
-                                                <img src="assets/images/courses/2.jpg">
+                                                <img src="assets/images/courses/loadbalancer.jpg">
                                             </div>
                                             <div class="sentence">
                                                 <b>Loadbalancer</b>
@@ -377,7 +377,7 @@
                                                 <img src="assets/images/courses/5.jpeg">
                                             </div>
                                             <div class="sentence">
-                                                <a href="index.php"; targe="blank"><b>C Language</a></b>
+                                                <a href="clang.php"; targe="blank"><b>C Language</a></b>
                                                 <p>C Language</p>
                                                 <ol>
                                                     <li>1.5 Months</li>
